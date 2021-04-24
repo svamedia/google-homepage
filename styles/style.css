@@ -59,6 +59,10 @@ a:hover {
     border: 1px solid #c4c4c4;
 }
 
+#searchbar:hover {
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.406);
+}
+
 #buttons {
     margin-top: 20px;
     display: flex;
