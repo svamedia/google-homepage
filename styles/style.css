@@ -56,3 +56,8 @@ body {
     border-radius: 3px;
     background: #e4e3e3;
 }
+
+#links {
+    margin-top: 20px;
+    text-align: center;
+}
