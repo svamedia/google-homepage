@@ -68,3 +68,8 @@ html, body {
     margin-top: 20px;
     text-align: center;
 }
+
+#footer-content {
+    background: rgb(182, 181, 181);
+
+}
