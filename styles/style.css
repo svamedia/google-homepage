@@ -50,6 +50,15 @@ a:hover {
     text-align: center;
 }
 
+#search, #voice {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #searchbar {
     padding: 10px 30px;
     outline: 0;
