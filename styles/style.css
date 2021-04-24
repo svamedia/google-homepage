@@ -12,3 +12,10 @@ body {
 #nav a {
      margin-right: 20px;
 }
+
+#nav a.topimage {
+    width: 20px;
+    height: 20px;
+    background: red;
+    border-radius: 50%;
+}
