@@ -41,3 +41,14 @@ body {
     border-radius: 15px;
     border: 1px solid #c4c4c4;
 }
+
+#buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
