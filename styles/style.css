@@ -29,5 +29,11 @@ body {
 }
 
 #searchbarcontainer {
+    margin-top: 20px;
     text-align: center;
+}
+
+#searchbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
