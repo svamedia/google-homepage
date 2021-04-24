@@ -6,6 +6,16 @@ html, body {
     flex-direction: column;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
 #nav {
     display: flex;
     justify-content: flex-end;
