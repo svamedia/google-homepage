@@ -51,8 +51,7 @@ a:hover {
 }
 
 #searchbar {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 30px;
     outline: 0;
     width: 500px;
     border-radius: 15px;
