@@ -19,3 +19,11 @@ body {
     background: red;
     border-radius: 50%;
 }
+
+#middle {
+    margin-top: 200px;
+}
+
+#logo {
+    text-align: center;
+}
