@@ -37,15 +37,13 @@ nav {
     border-radius: 50%;
 }
 
-.scroll-list-left {
-    padding-top: 40px;
-}
 
 .scroll-list-left ul {
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
     width: 50%;
+    padding-left: 100px;
 }
 
 .scroll-list-left a {
@@ -53,7 +51,16 @@ nav {
     color: #5f6368;
 }
 
+
+.searchbar-contain {
+    position: relative;
+    right: 300px;
+}
+
 #search {
     height: 39px;
     width: 533px;
+    border: 1px solid transparent;
+    border-radius: 24px;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
 }
