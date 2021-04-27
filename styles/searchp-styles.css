@@ -21,3 +21,18 @@ nav {
     width: 90px;
     height: 30px;
 }
+
+.searchbar-right {
+    display: flex;
+}
+
+.google-apps-icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 25px;
+}
+
+.my-account-icon {
+    height: 32px;
+    border-radius: 50%;
+}
