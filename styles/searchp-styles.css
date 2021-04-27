@@ -7,7 +7,7 @@ body {
 
 nav {
     width: 100vw;
-    height: 250px;
+    height: 300px;
     padding: 20px;
     overflow: hidden;
 }
@@ -35,4 +35,16 @@ nav {
 .my-account-icon {
     height: 32px;
     border-radius: 50%;
+}
+
+.scroll-list-left ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+.scroll-list-left a {
+    text-decoration: none;
+    color: #5f6368;
 }
