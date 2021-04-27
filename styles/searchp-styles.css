@@ -1,5 +1,23 @@
 body {
+    display: flex;
     margin: 0;
     padding: 0;
-    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    width: 100vw;
+    height: 250px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.nav-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-contain, #logo {
+    width: 90px;
+    height: 30px;
 }
