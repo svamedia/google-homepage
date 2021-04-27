@@ -37,6 +37,10 @@ nav {
     border-radius: 50%;
 }
 
+.scroll-list-left {
+    padding-top: 40px;
+}
+
 .scroll-list-left ul {
     list-style-type: none;
     display: flex;
@@ -47,4 +51,9 @@ nav {
 .scroll-list-left a {
     text-decoration: none;
     color: #5f6368;
+}
+
+#search {
+    height: 39px;
+    width: 533px;
 }
